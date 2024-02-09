@@ -49,4 +49,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any questions or inquiries, please contact [sakhujasaiyam@gmail.com].
 
 ---
-Feel free to customize the content based on your specific project details and preferences. This README provides a basic structure for presenting information about the QRNG project, including installation instructions, usage guidelines, contribution guidelines, licensing information, acknowledgements, and contact details.
