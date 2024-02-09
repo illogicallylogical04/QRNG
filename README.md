@@ -14,7 +14,7 @@ QRNG is a Python-based application that generates random numbers using quantum c
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/QRNG.git
+   git clone https://github.com/illogicallylogical04/QRNG.git
    ```
 
 2. Navigate to the project directory:
